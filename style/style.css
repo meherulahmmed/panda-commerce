@@ -1,0 +1,16 @@
+.panda-bg-info{
+    background-color: #fceae8;
+}
+.panda-btn-warning{
+    background-color: #ff448e;
+    color: #fceae8;
+    border: none;
+}
+.panda-btn-warning:hover{
+    color: black;
+    background-color: #ff448e;
+   
+}
+.categories img{
+width: 90px;
+}
